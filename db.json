@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe",
+      "id": "s1TYM96",
+      "first_name": "John",
+      "last_name": "Doe",
       "username": "john.doe",
       "email": "john.due@gmail.com"
     }
