@@ -2,7 +2,9 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john.doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,6 +168,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "superhero": "Raven",
+      "publisher": "DC Comics",
+      "alter_ego": "Rachel Roth",
+      "first_appearance": "DC Comics Presents #26 (October 1980)",
+      "characters": "Rachel Roth, Raven, Robin",
+      "image_url": "https://ae01.alicdn.com/kf/HTB18HQbRVXXXXaLaXXXq6xXFXXXr/Vestido-de-Super-h-roe-de-DC-Comics-para-mujer-adulta-conjunto-de-ropa-con-capa.jpg_Q90.jpg_.webp",
+      "id": "qCgzTgP"
+    },
+    {
+      "superhero": "Beast Boy",
+      "publisher": "DC Comics",
+      "alter_ego": "Garfield Mark \"Gar\" Logan",
+      "first_appearance": "The Doom Patrol",
+      "characters": "Beast Boy, Raven",
+      "image_url": "https://static.wikia.nocookie.net/comicadventures/images/e/e1/Beast-Boy.jpg",
+      "id": "6IMHPQr"
     }
   ]
 }
